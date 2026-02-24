@@ -25,12 +25,12 @@ The Python-based program will define constants, define functions (translated fro
 
 ## User Guide
 
-###Software Requirements
+##Software Requirements
 
 - Python 3.x (developed with Python 3.14)
 - Jupyter Notebook
 
-### How to Run
+## How to Run
 
 1. Download this repository
 2. Open a terminal in the repository folder and run: jupyter notebook'
