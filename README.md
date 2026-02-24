@@ -16,6 +16,7 @@ The Python-based program will define constants, define functions (translated fro
 ## Repository Contents
 | File | Description |
 |------|-------------|
+| 'mix-design-submittal.xlsx' | Original NDOT Concrete Mix Design Excel workbook from NDOT website |
 | 'CIVE202_Spring_2026_GroupC_Project2_JupyterNotebook_FinalDraft.ipynb` | Jupyter Notebook - Contains all Python code. The notebook includes defined constants, defined functions, user input prompts, calculations, weight summary, four scenario tests, and a standalone cell containing all code in one cell |
 | 'CIVE202_Spring_2026_GroupC_Project2_ScopeOfWork.docx` | Scope of Work - Outline of client requests, project goals, tasks, and deliverables |
 | 'CIVE202_Spring_2026_GroupC_Project2_GanttChart.xlsx' | Gantt Chart - Detailed project schedule with team member assignments and deadlines |
@@ -36,6 +37,6 @@ The Python-based program will define constants, define functions (translated fro
 2. Open a terminal in the repository folder and run: jupyter notebook'
 3. Open 'CIVE202_Spring_2026_GroupC_Project2_JupyterNotebook_FinalDraft.ipynb`.
 4. Run cells from top to bottom.
-5. Enter mic design parameter when prompted.
+5. Enter mix design parameters when prompted.
 
 **NOTE: The final cell in the notebook contains the full Python program and can be run independently without running any previous cells**
