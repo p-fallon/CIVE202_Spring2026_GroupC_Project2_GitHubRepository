@@ -6,7 +6,7 @@
 
 **Client:** Nebraska Department of Transportation (NDOT)
 
-**Project Summary**
+## Project Summary
 The Nebraska Department of Transportation (NDOT) has contracted our firm to migrate its existing Excel-based concrete mix design model into a Python-based automated system. The project objective is to create a clearly organized, reproducible Python workflow that mirrors the existing NDOT Concrete Mix Design workbook. 
 
 The calculation logic contained in the NDOT Concrete Mix Design workbook will be translated into Python functions. Manual inputs into Excel cells will be replaced with automated input prompts. Transitioning to a Python-based workflow will add transparency and consistency to the mix design process while allowing for future integration of additional tools.
